@@ -1,0 +1,11 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway|Titillium+Web';
+
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+.jumbotron {
+  position:relative;
+  margin:8% auto auto auto;
+  width:85%;
+}
